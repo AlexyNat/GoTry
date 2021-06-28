@@ -1,1 +1,1 @@
-module "greeting"
+module "github.com/AlexyNat"
